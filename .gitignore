@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# VS Code virtual documents
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.venv/
+env/
+venv/
